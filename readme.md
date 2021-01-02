@@ -21,6 +21,7 @@ In this puzzle-generation tool, I'm going to try to support these use cases (not
 - Ensure that each puzzle is **human-solvable** (I'll provide more information on what this means later) 
 - Ensure that each puzzle has exactly one solution
 - Different difficulty modes with certain option presets - for example, "Beginner mode" would have presets like the first example shown above (nine hooks in place with simple annotations on each row or column). On the other hand, "Expert mode" might have random hook positions with fewer, and less helpful, annotations.
+- UI, probably in the form of a website. I should really clean up my personal website anyway, so this will probably be a part of that.
 
 Here are some things that would be nice to have, but they are not important enough to prioritize right now:
 
